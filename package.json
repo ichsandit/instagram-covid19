@@ -9,7 +9,7 @@
   "author": "ichsandit",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "canvas": "^2.6.1",
     "delay": "^4.3.0",
     "instagram-private-api": "^1.39.2",
